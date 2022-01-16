@@ -8,9 +8,7 @@
 rkdkkr/rkdkkr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-Ncertbookspdf.com
-
+https://ncertbookspdf.com/
 
 [Latest Version 2021-22] NCERT Books PDF class 1 to 12 | Ncert Books Pdf
 Download NCERT Books PDF 2021-22
